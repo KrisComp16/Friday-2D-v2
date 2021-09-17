@@ -33,7 +33,7 @@ public class Player1 : MonoBehaviour
         {
             if (velocity.y < 0.01f)
             {
-                velocity.y = 6f;    // give the player a velocity of 5 in the y axis
+                velocity.y = 8f;    // give the player a velocity of 5 in the y axis
 
             }
         }
