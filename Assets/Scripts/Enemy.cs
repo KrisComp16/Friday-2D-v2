@@ -5,7 +5,7 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
 
-    public GameObject Player1;
+    public GameObject player;
 
     // Start is called before the first frame update
     void Start()
@@ -18,7 +18,7 @@ public class Enemy : MonoBehaviour
     {
         float ex = transform.position.x;
 
-        float px = Player1.transform.position.x;
+        float px = player.transform.position.x;
 
 
 
@@ -27,11 +27,11 @@ public class Enemy : MonoBehaviour
         {
             if (faceleft == true)
             {
-                transform.localRotation = Quaternion.Euler(0, 0, 0);
+                transform.localRotation = Quaternion.Euler(0, 180, 0);
             }
             else
             {
-                transform.localRotation = Quaternion.Euler(0, 180, 0);
+                transform.localRotation = Quaternion.Euler(0, 0, 0);
             }
         }
 
