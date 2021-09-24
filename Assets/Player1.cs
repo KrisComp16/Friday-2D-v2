@@ -16,7 +16,7 @@ public class Player1 : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        
+
     }
 
     // Update is called once per frame
@@ -37,7 +37,7 @@ public class Player1 : MonoBehaviour
         Vector2 velocity = rb.velocity;
 
         // check for jump
-        if (Input.GetKey("w") && (isGrounded==true) )
+        if (Input.GetKey("w") && (isGrounded == true))
         {
             if (velocity.y < 0.01f)
             {
@@ -78,7 +78,7 @@ public class Player1 : MonoBehaviour
             velocity.x = 5;
         }
 
-        if( velocity.x != 0 )
+        if (velocity.x != 0)
         {
             anim.SetBool("Walking", true);
         }
@@ -86,6 +86,16 @@ public class Player1 : MonoBehaviour
         {
             anim.SetBool("Walking", false);
         }
+
+        if( velocity.x < -0.5f )
+        {
+            DoFaceLeft(true);
+        }
+        if (velocity.x > 0.5f)
+        {
+            DoFaceLeft(false);
+        }
+
 
         rb.velocity = velocity;
 
@@ -101,20 +111,20 @@ public class Player1 : MonoBehaviour
         isGrounded = false;
     }
 
-    private void FixedUpdate()
+    void DoFaceLeft(bool faceleft)
     {
-        Vector2 velocity = rb.velocity;
-        if (velocity.x > 0)
+        if (faceleft == true)
         {
-            transform.localScale = new Vector3(1f, 1f, 0.5f);
+            transform.localRotation = Quaternion.Euler(0, 180, 0);
         }
-        else if (velocity.x < 0)
+        else
         {
-            transform.localScale = new Vector3(-1f, 1f, 0.5f);
+            transform.localRotation = Quaternion.Euler(0, 0, 0);
         }
     }
 
 
+  
 
 
 
