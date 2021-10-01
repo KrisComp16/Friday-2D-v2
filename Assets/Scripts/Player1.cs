@@ -24,7 +24,7 @@ public class Player1 : MonoBehaviour
     {
         DoJump();
         DoMove();
-
+        DoAttack();
     }
 
 
@@ -78,6 +78,9 @@ public class Player1 : MonoBehaviour
             velocity.x = 5;
         }
 
+        anim.SetBool("Walking", false);
+
+
         if (velocity.x != 0)
         {
             anim.SetBool("Walking", true);
@@ -124,8 +127,21 @@ public class Player1 : MonoBehaviour
     }
 
 
-  
+
+    void DoAttack()
+    {
+
+        if (Input.GetKey("v"))
+        {
+            anim.SetBool("Attack", true);
+        }
+        else
+        {
+            anim.SetBool("Attack", false);
+        }
 
 
+    }
 
-}
+
+    }

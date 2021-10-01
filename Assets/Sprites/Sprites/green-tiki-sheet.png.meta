@@ -1,0 +1,2556 @@
+fileFormatVersion: 2
+guid: d95337a2575401d42abdb8ecdc28f11b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -252097201271046384
+    second: green-tiki-sheet_0
+  - first:
+      213: 1172303134248587153
+    second: green-tiki-sheet_1
+  - first:
+      213: -130644471790336822
+    second: green-tiki-sheet_2
+  - first:
+      213: 3908816771338169205
+    second: green-tiki-sheet_3
+  - first:
+      213: 3125058902755261920
+    second: green-tiki-sheet_4
+  - first:
+      213: -3934515957882018229
+    second: green-tiki-sheet_5
+  - first:
+      213: 357506386860431413
+    second: green-tiki-sheet_6
+  - first:
+      213: 7982909433199367225
+    second: green-tiki-sheet_7
+  - first:
+      213: 2025758096741622969
+    second: green-tiki-sheet_8
+  - first:
+      213: -6631826267953277763
+    second: green-tiki-sheet_9
+  - first:
+      213: -9129356465433070994
+    second: green-tiki-sheet_10
+  - first:
+      213: 5694966149172440662
+    second: green-tiki-sheet_11
+  - first:
+      213: -7417791031326820896
+    second: green-tiki-sheet_12
+  - first:
+      213: 7831527667214417171
+    second: green-tiki-sheet_13
+  - first:
+      213: 7257243118803266752
+    second: green-tiki-sheet_14
+  - first:
+      213: 7248480030482781625
+    second: green-tiki-sheet_15
+  - first:
+      213: -1730886540528769045
+    second: green-tiki-sheet_16
+  - first:
+      213: -1847827933097084279
+    second: green-tiki-sheet_17
+  - first:
+      213: 449513190153960792
+    second: green-tiki-sheet_18
+  - first:
+      213: 7750909168409985804
+    second: green-tiki-sheet_19
+  - first:
+      213: -5672465697172587884
+    second: green-tiki-sheet_20
+  - first:
+      213: 6565916249685166961
+    second: green-tiki-sheet_21
+  - first:
+      213: 3940145717859892398
+    second: green-tiki-sheet_22
+  - first:
+      213: -1091507808922419401
+    second: green-tiki-sheet_23
+  - first:
+      213: -2671150995465319816
+    second: green-tiki-sheet_24
+  - first:
+      213: -856969458222639744
+    second: green-tiki-sheet_25
+  - first:
+      213: 3696666286325657739
+    second: green-tiki-sheet_26
+  - first:
+      213: 4297607677363390966
+    second: green-tiki-sheet_27
+  - first:
+      213: -7840757698129472827
+    second: green-tiki-sheet_28
+  - first:
+      213: 3349396452410075912
+    second: green-tiki-sheet_29
+  - first:
+      213: -25315931055858194
+    second: green-tiki-sheet_30
+  - first:
+      213: 4961603148790314123
+    second: green-tiki-sheet_31
+  - first:
+      213: 898341917241291045
+    second: green-tiki-sheet_32
+  - first:
+      213: -8536194810194546771
+    second: green-tiki-sheet_33
+  - first:
+      213: -7744236229663207268
+    second: green-tiki-sheet_34
+  - first:
+      213: 1579316990142450745
+    second: green-tiki-sheet_35
+  - first:
+      213: 3456361880671494374
+    second: green-tiki-sheet_36
+  - first:
+      213: 2405336854445637579
+    second: green-tiki-sheet_37
+  - first:
+      213: 4067162286331050638
+    second: green-tiki-sheet_38
+  - first:
+      213: 3715637404409785238
+    second: green-tiki-sheet_39
+  - first:
+      213: -3629481670259536847
+    second: green-tiki-sheet_40
+  - first:
+      213: -5254944842366408347
+    second: green-tiki-sheet_41
+  - first:
+      213: 1021445098674176968
+    second: green-tiki-sheet_42
+  - first:
+      213: -8216448193576381689
+    second: green-tiki-sheet_43
+  - first:
+      213: 6898522683899177123
+    second: green-tiki-sheet_44
+  - first:
+      213: 8786824911878013415
+    second: green-tiki-sheet_45
+  - first:
+      213: -6722716081000784802
+    second: green-tiki-sheet_46
+  - first:
+      213: -4755354609194632334
+    second: green-tiki-sheet_47
+  - first:
+      213: -7786458960527223330
+    second: green-tiki-sheet_48
+  - first:
+      213: -6560975795145791709
+    second: green-tiki-sheet_49
+  - first:
+      213: -1293227874476779907
+    second: green-tiki-sheet_50
+  - first:
+      213: -3650690040913105784
+    second: green-tiki-sheet_51
+  - first:
+      213: 268186792299356395
+    second: green-tiki-sheet_52
+  - first:
+      213: -5806321585663702034
+    second: green-tiki-sheet_53
+  - first:
+      213: -7640452007789633099
+    second: green-tiki-sheet_54
+  - first:
+      213: -3902179587963272771
+    second: green-tiki-sheet_55
+  - first:
+      213: 5559818390101544370
+    second: green-tiki-sheet_56
+  - first:
+      213: 8233315322136821419
+    second: green-tiki-sheet_57
+  - first:
+      213: 4040311081305181462
+    second: green-tiki-sheet_58
+  - first:
+      213: -8634327933094281036
+    second: green-tiki-sheet_59
+  - first:
+      213: -3704600956720899696
+    second: green-tiki-sheet_60
+  - first:
+      213: 5461740785379939270
+    second: green-tiki-sheet_61
+  - first:
+      213: -1081084650743196237
+    second: green-tiki-sheet_62
+  - first:
+      213: -192639983184330930
+    second: green-tiki-sheet_63
+  - first:
+      213: -7362985506484356037
+    second: green-tiki-sheet_64
+  - first:
+      213: 668726063073473655
+    second: green-tiki-sheet_65
+  - first:
+      213: 5548060351343170603
+    second: green-tiki-sheet_66
+  - first:
+      213: -8372275953049753629
+    second: green-tiki-sheet_67
+  - first:
+      213: 4078425707766708288
+    second: green-tiki-sheet_68
+  - first:
+      213: 8825591141260140994
+    second: green-tiki-sheet_69
+  - first:
+      213: 6845788827118705077
+    second: green-tiki-sheet_70
+  - first:
+      213: 4615911463055869058
+    second: green-tiki-sheet_71
+  - first:
+      213: 3237872235476781333
+    second: green-tiki-sheet_72
+  - first:
+      213: -6159426708557456425
+    second: green-tiki-sheet_73
+  - first:
+      213: 3178108513542665123
+    second: green-tiki-sheet_74
+  - first:
+      213: 6154004116054146064
+    second: green-tiki-sheet_75
+  - first:
+      213: -8609501990702832751
+    second: green-tiki-sheet_76
+  - first:
+      213: 1818698154800160495
+    second: green-tiki-sheet_77
+  - first:
+      213: -7616121347612442049
+    second: green-tiki-sheet_78
+  - first:
+      213: -1787266664487352682
+    second: green-tiki-sheet_79
+  - first:
+      213: 8402769122722446645
+    second: green-tiki-sheet_80
+  - first:
+      213: -5857975442151383558
+    second: green-tiki-sheet_81
+  - first:
+      213: -8457926788005898379
+    second: green-tiki-sheet_82
+  - first:
+      213: -6948796786534835247
+    second: green-tiki-sheet_83
+  - first:
+      213: 8009382675749352498
+    second: green-tiki-sheet_84
+  - first:
+      213: 2867477054514112965
+    second: green-tiki-sheet_85
+  - first:
+      213: 2345170883937970903
+    second: green-tiki-sheet_86
+  - first:
+      213: -6374807269282234971
+    second: green-tiki-sheet_87
+  - first:
+      213: 384683364131396416
+    second: green-tiki-sheet_88
+  - first:
+      213: -1943894671609235114
+    second: green-tiki-sheet_89
+  - first:
+      213: 3911666941507705149
+    second: green-tiki-sheet_90
+  - first:
+      213: -8909098170816862510
+    second: green-tiki-sheet_91
+  - first:
+      213: 6835840945135743252
+    second: green-tiki-sheet_92
+  - first:
+      213: 5178673034760295269
+    second: green-tiki-sheet_93
+  - first:
+      213: 7866118787929602216
+    second: green-tiki-sheet_94
+  - first:
+      213: -147732535671528274
+    second: green-tiki-sheet_95
+  - first:
+      213: -106345673904754201
+    second: green-tiki-sheet_96
+  - first:
+      213: 4411546627968505910
+    second: green-tiki-sheet_97
+  - first:
+      213: -4857877595405385538
+    second: green-tiki-sheet_98
+  - first:
+      213: 421917410652965926
+    second: green-tiki-sheet_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green-tiki-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 773
+        width: 419
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f7e5d5eee508cf0800000000000000
+      internalID: -252097201271046384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1201
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc6fd4d7bd44010800000000000000
+      internalID: 1172303134248587153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1201
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4811b8b8bdf2ef0800000000000000
+      internalID: -130644471790336822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1201
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b63bbc428ee3630800000000000000
+      internalID: 3908816771338169205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1201
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed36e8c3807e5b20800000000000000
+      internalID: 3125058902755261920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1201
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46265f059ac569c0800000000000000
+      internalID: -3934515957882018229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1201
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538dfb92a2e16f400800000000000000
+      internalID: 357506386860431413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1201
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93496ff85ddf8ce60800000000000000
+      internalID: 7982909433199367225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1201
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4e72d8140fc1c10800000000000000
+      internalID: 2025758096741622969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1201
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db45a8e652507f3a0800000000000000
+      internalID: -6631826267953277763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1169
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6232f10aa20e4180800000000000000
+      internalID: -9129356465433070994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1169
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e2c491a85980f40800000000000000
+      internalID: 5694966149172440662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1169
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5bfafab56be0990800000000000000
+      internalID: -7417791031326820896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1169
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d75fc8bec2fac60800000000000000
+      internalID: 7831527667214417171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1169
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccaae08a28e6b460800000000000000
+      internalID: 7257243118803266752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1169
+        width: 87
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b550720f26c79460800000000000000
+      internalID: 7248480030482781625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1169
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7274dacd7aaf7e0800000000000000
+      internalID: -1730886540528769045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1169
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a34b9f8423b56e0800000000000000
+      internalID: -1847827933097084279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1169
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dbaf46dddfc3600800000000000000
+      internalID: 449513190153960792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1169
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03456592d2c09b60800000000000000
+      internalID: 7750909168409985804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1169
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a707f908a5741b0800000000000000
+      internalID: -5672465697172587884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1137
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b03779a02de1b50800000000000000
+      internalID: 6565916249685166961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1137
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacb05497a53ea630800000000000000
+      internalID: 3940145717859892398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1138
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f3d9b4e6f2ad0f0800000000000000
+      internalID: -1091507808922419401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1137
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87acbdd625a2eead0800000000000000
+      internalID: -2671150995465319816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1138
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085d74371de6b14f0800000000000000
+      internalID: -856969458222639744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 941
+        width: 81
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b807a91d6623d4330800000000000000
+      internalID: 3696666286325657739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 940
+        width: 81
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f98c31b96b24ab30800000000000000
+      internalID: 4297607677363390966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 940
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c255196a68003390800000000000000
+      internalID: -7840757698129472827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 940
+        width: 82
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b2bddd3527b7e20800000000000000
+      internalID: 3349396452410075912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1013
+        width: 121
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedd14a7b4f06aff0800000000000000
+      internalID: -25315931055858194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 944
+        width: 100
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b843b10b6c72bd440800000000000000
+      internalID: 4961603148790314123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 940
+        width: 118
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521b200d63d877c00800000000000000
+      internalID: 898341917241291045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 934
+        width: 81
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf22dcfb08598980800000000000000
+      internalID: -8536194810194546771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 943
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d63a0e22f68490800000000000000
+      internalID: -7744236229663207268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 781
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c0e295f6cdae510800000000000000
+      internalID: 1579316990142450745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 781
+        width: 111
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e020a061d677ff20800000000000000
+      internalID: 3456361880671494374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 782
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf33660029716120800000000000000
+      internalID: 2405336854445637579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 792
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ab0a8fc86717830800000000000000
+      internalID: 4067162286331050638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 792
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69beff37888909330800000000000000
+      internalID: 3715637404409785238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 792
+        width: 83
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c836596ad71adc0800000000000000
+      internalID: -3629481670259536847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 792
+        width: 77
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569aa7cf18fa217b0800000000000000
+      internalID: -5254944842366408347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 792
+        width: 81
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3c908c7e6ec2e00800000000000000
+      internalID: 1021445098674176968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 792
+        width: 90
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703da7a86ef49fd80800000000000000
+      internalID: -8216448193576381689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 632
+        width: 99
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8e8c0c4d97cbf50800000000000000
+      internalID: 6898522683899177123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 632
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1ca08e3b211f970800000000000000
+      internalID: 8786824911878013415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 632
+        width: 144
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c5422c75d14b2a0800000000000000
+      internalID: -6722716081000784802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 644
+        width: 140
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bffe98d26910eb0800000000000000
+      internalID: -4755354609194632334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 652
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed51e9f64d0f0f390800000000000000
+      internalID: -7786458960527223330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 652
+        width: 81
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327266e964bb2f4a0800000000000000
+      internalID: -6560975795145791709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 652
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d769d2899188d0ee0800000000000000
+      internalID: -1293227874476779907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 652
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c615effb4265dc0800000000000000
+      internalID: -3650690040913105784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 652
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be06478777ac8b300800000000000000
+      internalID: 268186792299356395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 652
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb05d2f74dcb6fa0800000000000000
+      internalID: -5806321585663702034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 498
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b167483169a7f590800000000000000
+      internalID: -7640452007789633099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 498
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db14ba1e65ca8d9c0800000000000000
+      internalID: -3902179587963272771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 498
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdcfad5e51782d40800000000000000
+      internalID: 5559818390101544370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 498
+        width: 91
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baefebbd9ac924270800000000000000
+      internalID: 8233315322136821419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 498
+        width: 138
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d054f9581121830800000000000000
+      internalID: 4040311081305181462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 499
+        width: 139
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0cea1dd74bc2880800000000000000
+      internalID: -8634327933094281036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 512
+        width: 72
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0991414ce0d969cc0800000000000000
+      internalID: -3704600956720899696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 513
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c395d78e400ccb40800000000000000
+      internalID: 5461740785379939270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 508
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5135cec373ff0f0800000000000000
+      internalID: -1081084650743196237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 508
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fb2c8b4fa935df0800000000000000
+      internalID: -192639983184330930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 508
+        width: 84
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c76af41bb61d990800000000000000
+      internalID: -7362985506484356037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 508
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7743a81bfcac74900800000000000000
+      internalID: 668726063073473655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 361
+        width: 89
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b241d32ae7baefc40800000000000000
+      internalID: 5548060351343170603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 362
+        width: 111
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7ace00163bfcb80800000000000000
+      internalID: -8372275953049753629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 362
+        width: 97
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0487142a29a799830800000000000000
+      internalID: 4078425707766708288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 362
+        width: 89
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c125ab026cca7a70800000000000000
+      internalID: 8825591141260140994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 362
+        width: 94
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b99fbfeaa0210f50800000000000000
+      internalID: 6845788827118705077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 362
+        width: 91
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284491ef4030f0040800000000000000
+      internalID: 4615911463055869058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 357
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51981b7a4ab3fec20800000000000000
+      internalID: 3237872235476781333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 357
+        width: 84
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db1168ea02558aa0800000000000000
+      internalID: -6159426708557456425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 357
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3fa5fcad8ea1c20800000000000000
+      internalID: 3178108513542665123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 357
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cf2b3632a676550800000000000000
+      internalID: 6154004116054146064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 362
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a327fd87e48880800000000000000
+      internalID: -8609501990702832751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 362
+        width: 72
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee958ef5505d3910800000000000000
+      internalID: 1818698154800160495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 212
+        width: 98
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f328a4d7cf91e4690800000000000000
+      internalID: -7616121347612442049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 213
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6968550207a5237e0800000000000000
+      internalID: -1787266664487352682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 212
+        width: 108
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dfd715ff1ac9470800000000000000
+      internalID: 8402769122722446645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 213
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdda9b4f5a44bea0800000000000000
+      internalID: -5857975442151383558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 202
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577d5a8f5686f9a80800000000000000
+      internalID: -8457926788005898379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 210
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db1732932ae09f90800000000000000
+      internalID: -6948796786534835247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 202
+        width: 91
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234353aab1b072f60800000000000000
+      internalID: 8009382675749352498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 212
+        width: 158
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9a5e340335bc720800000000000000
+      internalID: 2867477054514112965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 215
+        width: 152
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da26b26e78bb8020800000000000000
+      internalID: 2345170883937970903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 198
+        width: 139
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adbad250922887a0800000000000000
+      internalID: -6374807269282234971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 202
+        width: 138
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bdd064b7ba65500800000000000000
+      internalID: 384683364131396416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 70
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659f4f96816e505e0800000000000000
+      internalID: -1943894671609235114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 70
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d399430cb58094630800000000000000
+      internalID: 3911666941507705149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 70
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6e0638a668c5480800000000000000
+      internalID: -8909098170816862510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 70
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411f2eb2f19cdde50800000000000000
+      internalID: 6835840945135743252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 64
+        width: 104
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56318c4ffa75ed740800000000000000
+      internalID: 5178673034760295269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 64
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8f1937c511a2d60800000000000000
+      internalID: 7866118787929602216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 70
+        width: 140
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4e781aa0623fdf0800000000000000
+      internalID: -147732535671528274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 67
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1f18b4c2f268ef0800000000000000
+      internalID: -106345673904754201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 65
+        width: 114
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6389226e846f83d30800000000000000
+      internalID: 4411546627968505910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 62
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0888ba01a559cb0800000000000000
+      internalID: -4857877595405385538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green-tiki-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 63
+        width: 146
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cc58a46a3fad500800000000000000
+      internalID: 421917410652965926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
