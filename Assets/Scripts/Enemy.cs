@@ -12,15 +12,19 @@ public class Enemy : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        player = GameObject.Find("Player");
     }
 
     // Update is called once per frame
     void Update()
     {
-        DoMove();
+        // DoMove();
+        Helper.EnemyDirection( player, gameObject);
        // DoJump();
 
     }
+
+    /*
 
     void DoMove()
     {
@@ -32,26 +36,29 @@ public class Enemy : MonoBehaviour
 
         if (ex > px)
         {
-            DoFaceLeft(true);
+            Helper.DoFaceLeft(gameObject, true);
             velocity.x = -2;
         }
         
         else if (ex == px)
         {
-            DoFaceLeft(false);
+            Helper.DoFaceLeft(gameObject, false);
             velocity.x = 0;
         }
         
         
         else
         {
-            DoFaceLeft(false);
-            velocity.x = 2;
+            Helper.DoFaceLeft(gameObject, false);
+            velocity.x = -2;
         }
 
 
         rb.velocity = velocity;
     }
+    */
+
+
 
 
 
@@ -76,18 +83,6 @@ public class Enemy : MonoBehaviour
         rb.velocity = velocity;
     }
 
-
-        void DoFaceLeft(bool faceleft)
-    {
-        if (faceleft == true)
-        {
-            transform.localRotation = Quaternion.Euler(0, 180, 0);
-        }
-        else
-        {
-            transform.localRotation = Quaternion.Euler(0, 0, 0);
-        }
-    }
 
 
 

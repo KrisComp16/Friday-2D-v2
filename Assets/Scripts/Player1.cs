@@ -10,6 +10,7 @@ public class Player1 : MonoBehaviour
     private Rigidbody2D rb;
     bool isGrounded;
     private Animator anim;
+    public GameObject fireball;
 
     // Start is called before the first frame update
     void Start()
@@ -25,6 +26,7 @@ public class Player1 : MonoBehaviour
         DoJump();
         DoMove();
         DoAttack();
+        //DoShoot();
     }
 
 
@@ -92,11 +94,13 @@ public class Player1 : MonoBehaviour
 
         if( velocity.x < -0.5f )
         {
-            DoFaceLeft(true);
+            Helper.DoFaceLeft(gameObject, true);
+            
+            
         }
         if (velocity.x > 0.5f)
         {
-            DoFaceLeft(false);
+            Helper.DoFaceLeft(gameObject,false);
         }
 
 
@@ -114,17 +118,7 @@ public class Player1 : MonoBehaviour
         isGrounded = false;
     }
 
-    void DoFaceLeft(bool faceleft)
-    {
-        if (faceleft == true)
-        {
-            transform.localRotation = Quaternion.Euler(0, 180, 0);
-        }
-        else
-        {
-            transform.localRotation = Quaternion.Euler(0, 0, 0);
-        }
-    }
+    
 
 
 
@@ -143,5 +137,14 @@ public class Player1 : MonoBehaviour
 
     }
 
+    /*
+    void DoShoot()
+    {
+        if (Input.GetButtonDown("Fire2"))
+        {
+            Instantiate(fireball, transform.position, transform.rotation);
+        }
 
     }
+    */
+}
