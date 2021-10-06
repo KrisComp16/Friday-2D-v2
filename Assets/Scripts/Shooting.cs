@@ -6,6 +6,7 @@ public class Shooting : MonoBehaviour
 {
 
     private Rigidbody2D rb;
+    public GameObject player;
 
 
     // Start is called before the first frame update
@@ -25,7 +26,17 @@ public class Shooting : MonoBehaviour
     void DoMove()
     {
         Vector2 velocity = rb.velocity;
-        velocity.x = 5;
+
+      //  if( Helper.DoFaceLeft(player, true))
+     //   {
+            velocity.x = 5;
+      //  }
+     //   else
+     //   {
+      //      velocity.x = 5;
+      //  }
+
+
         rb.velocity = velocity;
     }
 
