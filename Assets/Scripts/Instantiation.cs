@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Instantiation : MonoBehaviour
 {
+    
     public GameObject fireball;
     // Start is called before the first frame update
     void Start()
@@ -24,9 +25,11 @@ public class Instantiation : MonoBehaviour
 
     void DoShoot()
     {
+      
         if (Input.GetButtonDown("Fire2"))
         {
             Instantiate(fireball, transform.position, transform.rotation);
+            
         }
 
     }

@@ -20,7 +20,8 @@ public class Enemy : MonoBehaviour
     {
         // DoMove();
         Helper.EnemyDirection( player, gameObject);
-       // DoJump();
+        // DoJump();
+        
 
     }
 
@@ -90,5 +91,19 @@ public class Enemy : MonoBehaviour
     {
 
     }
+
+
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        print("tag=" + col.gameObject.tag);
+
+        if (col.gameObject.tag == "Fireball")
+        {
+            print("I've been hit by a fireball!");
+
+        }
+    }
+
 
 }
