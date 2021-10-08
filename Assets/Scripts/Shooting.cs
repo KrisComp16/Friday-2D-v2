@@ -27,14 +27,14 @@ public class Shooting : MonoBehaviour
     {
         Vector2 velocity = rb.velocity;
 
-      //  if( Helper.DoFaceLeft(player, true))
+     //   if( Helper.DoFaceLeft(player, true))
      //   {
-            velocity.x = 5;
-      //  }
-     //   else
+     //       velocity.x = -5;
+     //   }
+    //    else 
      //   {
-      //      velocity.x = 5;
-      //  }
+            
+     //   }
 
 
         rb.velocity = velocity;

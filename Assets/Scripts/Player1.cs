@@ -4,6 +4,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+//using Globals;
 
 public class Player1 : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class Player1 : MonoBehaviour
     bool isGrounded;
     private Animator anim;
     public GameObject fireball;
+    public Transform firepoint;
 
     // Start is called before the first frame update
     void Start()
@@ -26,7 +28,8 @@ public class Player1 : MonoBehaviour
         DoJump();
         DoMove();
         DoAttack();
-        //DoShoot();
+        DoShoot();
+        
     }
 
 
@@ -137,6 +140,36 @@ public class Player1 : MonoBehaviour
 
     }
 
+    void DoShoot()
+    {
+        if (Input.GetButtonDown("Fire2"))
+        {
+        
+
+
+
+
+            if (Helper.GetDirection(gameObject) == true)
+            {
+                MakeBullet(fireball, firepoint.position.x, firepoint.position.y, -6, 0);
+            }
+            else 
+            {
+                MakeBullet(fireball, firepoint.position.x, firepoint.position.y, 6, 0);
+            }
+            
+        }
+
+    }
+    void MakeBullet( GameObject prefab, float xpos, float ypos, float xvel, float yvel)
+    {
+        GameObject instance = Instantiate(prefab, new Vector3(xpos, ypos, 0), Quaternion.identity);
+
+        Rigidbody2D rb = instance.GetComponent<Rigidbody2D>();
+        rb.velocity = new Vector3(xvel, yvel, 0);
+
+
+    }
     /*
     void DoShoot()
     {

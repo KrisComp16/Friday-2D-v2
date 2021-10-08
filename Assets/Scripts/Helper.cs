@@ -11,11 +11,28 @@ public class Helper : MonoBehaviour
         if (left == true)
         {
             obj.transform.localRotation = Quaternion.Euler(0, 180, 0);
+            
         }
         else
         {
             obj.transform.localRotation = Quaternion.Euler(0, 0, 0);
+            
         }
+    }
+
+    public static bool GetDirection( GameObject obj )
+    {
+        
+        
+        if( obj.transform.eulerAngles.y == 180 )
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+        
     }
 
 
@@ -52,5 +69,16 @@ public class Helper : MonoBehaviour
             
         }
     }
+
+
+
+    /*
+    public static class Globals
+    {
+        public const int Left = -1;
+        public const int Right = 1;
+    }
+
+    */
 }
 
