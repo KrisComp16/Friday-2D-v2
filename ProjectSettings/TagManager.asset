@@ -7,6 +7,7 @@ TagManager:
   - Enemy
   - Fireball
   - Spear
+  - Ground
   layers:
   - Default
   - TransparentFX

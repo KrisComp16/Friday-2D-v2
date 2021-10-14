@@ -29,7 +29,7 @@ public class Player1 : MonoBehaviour
         DoMove();
         DoAttack();
         DoShoot();
-        
+        DoRayCollisionCheck();
     }
 
 
@@ -49,6 +49,10 @@ public class Player1 : MonoBehaviour
                 velocity.y = 8f;    // give the player a velocity of 5 in the y axis
 
             }
+        }
+        if (Input.GetKey("w") && (isGrounded == false))
+        {
+            print("I can't jump yet");
         }
 
         if (velocity.y != 0)
@@ -111,6 +115,8 @@ public class Player1 : MonoBehaviour
 
     }
 
+
+    /*
     private void OnCollisionStay2D(Collision2D collosion)
     {
         isGrounded = true;
@@ -120,7 +126,7 @@ public class Player1 : MonoBehaviour
     {
         isGrounded = false;
     }
-
+    */
     
 
 
@@ -180,4 +186,44 @@ public class Player1 : MonoBehaviour
 
     }
     */
+
+
+
+    void DoRayCollisionCheck()
+    {
+        float rayLength = 1.0f;
+
+        //cast a ray downward of length 1
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, -Vector2.up, rayLength);
+
+        Color hitColor = Color.white;
+
+
+        if (hit.collider != null)
+        {
+
+            if (hit.collider.tag == "Enemy")
+            {
+                isGrounded = true;
+                hitColor = Color.red;
+            }
+
+            if (hit.collider.tag == "Ground")
+            {
+                isGrounded = true;
+                hitColor = Color.green;
+            }
+
+            else
+            {
+                isGrounded = false;
+                hitColor = Color.red;
+            }
+        }
+        // draw a debug ray to show ray position
+        // You need to enable gizmos in the editor to see these
+        Debug.DrawRay(transform.position, -Vector2.up * rayLength, hitColor);
+
+    }
+
 }
