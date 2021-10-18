@@ -8,6 +8,7 @@ TagManager:
   - Fireball
   - Spear
   - Ground
+  - Coin
   layers:
   - Default
   - TransparentFX

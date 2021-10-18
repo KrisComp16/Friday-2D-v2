@@ -71,6 +71,41 @@ public class Helper : MonoBehaviour
     }
 
 
+    public static void SpearDirection(GameObject player, GameObject spear)
+    {
+        Rigidbody2D rb;
+
+        float sx = spear.transform.position.x;
+        float px = player.transform.position.x;
+
+        rb = spear.GetComponent<Rigidbody2D>();
+
+
+
+
+        float playerdistance = sx - px;
+
+        if (playerdistance > 1)
+        {
+
+            rb.velocity = new Vector3(-2, 0, 0);
+            DoFaceLeft(spear, true);
+        }
+        else if (playerdistance < -1)
+        {
+
+            rb.velocity = new Vector3(2, 0, 0);
+            DoFaceLeft(spear, false);
+        }
+        else
+        {
+
+            rb.velocity = new Vector3(0, 0, 0);
+
+        }
+    }
+
+
 
     /*
     public static class Globals

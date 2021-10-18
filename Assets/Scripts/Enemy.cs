@@ -8,6 +8,8 @@ public class Enemy : MonoBehaviour
 
     private Rigidbody2D rb;
     public GameObject player;
+    public GameObject spear;
+    public Transform firepoint;
 
     // Start is called before the first frame update
     void Start()
@@ -90,18 +92,41 @@ public class Enemy : MonoBehaviour
 
     void DoThrow()
     {
+        print("Throw");
+       
+        
+        if (Helper.GetDirection(gameObject) == true)
+        {
+            MakeBullet(spear, firepoint.position.x, firepoint.position.y, -6, 0);
+        }
+        else
+        {
+            MakeBullet(spear, firepoint.position.x, firepoint.position.y, 6, 0);
+        }
+    }
+
+    void MakeBullet(GameObject prefab, float xpos, float ypos, float xvel, float yvel)
+    {
+        GameObject instance = Instantiate(prefab, new Vector3(xpos, ypos, 0), Quaternion.identity);
+
+        Rigidbody2D rb = instance.GetComponent<Rigidbody2D>();
+        rb.velocity = new Vector3(xvel, yvel, 0);
+
+
 
     }
 
 
 
-    void OnCollisionEnter2D(Collision2D col)
+    void OnTriggerEnter2D( Collider2D other)
     {
-        print("tag=" + col.gameObject.tag);
+        print("tag=" + gameObject.tag);
 
-        if (col.gameObject.tag == "Fireball")
+        if (other.gameObject.tag == "Fireball")
         {
             print("I've been hit by a fireball!");
+            Destroy(this.gameObject);
+            Destroy(gameObject);
 
         }
     }

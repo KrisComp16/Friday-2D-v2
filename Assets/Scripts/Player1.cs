@@ -175,6 +175,7 @@ public class Player1 : MonoBehaviour
         rb.velocity = new Vector3(xvel, yvel, 0);
 
 
+
     }
     /*
     void DoShoot()
