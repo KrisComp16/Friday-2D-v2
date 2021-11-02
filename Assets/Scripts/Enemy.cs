@@ -10,6 +10,7 @@ public class Enemy : MonoBehaviour
     public GameObject player;
     public GameObject spear;
     public Transform firepoint;
+    public GameObject collectible;
 
     // Start is called before the first frame update
     void Start()
@@ -116,7 +117,10 @@ public class Enemy : MonoBehaviour
 
     }
 
-
+    void DropCollectible(GameObject prefab, float xpos, float ypos)
+    {
+        GameObject instance = Instantiate(prefab, new Vector3(xpos, ypos, 0), Quaternion.identity);
+    }
 
     void OnTriggerEnter2D( Collider2D other)
     {
@@ -127,7 +131,7 @@ public class Enemy : MonoBehaviour
             print("I've been hit by a fireball!");
             Destroy(this.gameObject);
             Destroy(gameObject);
-
+            DropCollectible(collectible, firepoint.position.x, firepoint.position.y);
         }
     }
 
