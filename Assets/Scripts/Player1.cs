@@ -13,13 +13,16 @@ public class Player1 : MonoBehaviour
     private Animator anim;
     public GameObject fireball;
     public Transform firepoint;
+    public static int playerscore;
+    //public Text MyText;
+
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-
+        //MyText.text = "";
     }
 
     // Update is called once per frame
@@ -30,6 +33,7 @@ public class Player1 : MonoBehaviour
         DoAttack();
         DoShoot();
         DoRayCollisionCheck();
+        //MyText.text = "" + playerscore;
     }
 
 
@@ -227,4 +231,18 @@ public class Player1 : MonoBehaviour
 
     }
 
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        
+       
+
+        if (other.gameObject.tag == "Coin")
+        {
+            playerscore = playerscore + 100;
+            print(playerscore);
+        }
+
+
+    }
 }
