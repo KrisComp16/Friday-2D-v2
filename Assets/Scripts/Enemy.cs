@@ -11,12 +11,14 @@ public class Enemy : MonoBehaviour
     public GameObject spear;
     public Transform firepoint;
     public GameObject collectible;
+    
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         player = GameObject.Find("Player");
+       
     }
 
     // Update is called once per frame
@@ -112,7 +114,14 @@ public class Enemy : MonoBehaviour
 
         Rigidbody2D rb = instance.GetComponent<Rigidbody2D>();
         rb.velocity = new Vector3(xvel, yvel, 0);
-
+        if (xvel < 0)
+        {
+            Helper.DoFaceLeft(gameObject, true);
+        }
+        else
+        {
+            Helper.DoFaceLeft(gameObject, false);
+        }
 
 
     }
@@ -130,7 +139,7 @@ public class Enemy : MonoBehaviour
         {
             print("I've been hit by a fireball!");
             Destroy(this.gameObject);
-            Destroy(gameObject);
+            Destroy(other.gameObject);
             DropCollectible(collectible, firepoint.position.x, firepoint.position.y);
         }
     }

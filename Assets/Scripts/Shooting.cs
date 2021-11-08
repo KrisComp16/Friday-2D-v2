@@ -40,5 +40,19 @@ public class Shooting : MonoBehaviour
 
         rb.velocity = velocity;
     }
+    
+    void OnTriggerEnter2D(Collider2D other)
+    {
 
+        if (other.gameObject.tag == "Ground")
+        {
+
+            Destroy(this.gameObject);
+        }
+        if (other.gameObject.tag == "Enemy")
+        {
+
+            Destroy(this.gameObject);
+        }
+    }
 }

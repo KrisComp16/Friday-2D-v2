@@ -1,6 +1,6 @@
 
 
-
+using UnityEngine.SceneManagement;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -103,15 +103,15 @@ public class Player1 : MonoBehaviour
             anim.SetBool("Walking", false);
         }
 
-        if( velocity.x < -0.5f )
+        if (velocity.x < -0.5f)
         {
             Helper.DoFaceLeft(gameObject, true);
-            
-            
+
+
         }
         if (velocity.x > 0.5f)
         {
-            Helper.DoFaceLeft(gameObject,false);
+            Helper.DoFaceLeft(gameObject, false);
         }
 
 
@@ -131,7 +131,7 @@ public class Player1 : MonoBehaviour
         isGrounded = false;
     }
     */
-    
+
 
 
 
@@ -154,7 +154,7 @@ public class Player1 : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire2"))
         {
-        
+
 
 
 
@@ -163,15 +163,15 @@ public class Player1 : MonoBehaviour
             {
                 MakeBullet(fireball, firepoint.position.x, firepoint.position.y, -6, 0);
             }
-            else 
+            else
             {
                 MakeBullet(fireball, firepoint.position.x, firepoint.position.y, 6, 0);
             }
-            
+
         }
 
     }
-    void MakeBullet( GameObject prefab, float xpos, float ypos, float xvel, float yvel)
+    void MakeBullet(GameObject prefab, float xpos, float ypos, float xvel, float yvel)
     {
         GameObject instance = Instantiate(prefab, new Vector3(xpos, ypos, 0), Quaternion.identity);
 
@@ -210,7 +210,7 @@ public class Player1 : MonoBehaviour
             if (hit.collider.tag == "Enemy")
             {
                 isGrounded = true;
-                hitColor = Color.red;
+                hitColor = Color.green;
             }
 
             if (hit.collider.tag == "Ground")
@@ -234,15 +234,23 @@ public class Player1 : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        
-       
+
+
 
         if (other.gameObject.tag == "Coin")
         {
             playerscore = playerscore + 100;
             print(playerscore);
         }
-
+        if (other.gameObject.tag == "Spear")
+        {
+            print("I've been hit by a spear!");
+            Destroy(this.gameObject);
+            Destroy(gameObject);
+            Scene scene = SceneManager.GetActiveScene(); SceneManager.LoadScene(scene.name);
+            playerscore = 0;
+        }
 
     }
+
 }
