@@ -219,11 +219,11 @@ public class Player1 : MonoBehaviour
                 hitColor = Color.green;
             }
 
-            else
-            {
-                isGrounded = false;
-                hitColor = Color.red;
-            }
+        }
+        else
+        {
+            isGrounded = false;
+          
         }
         // draw a debug ray to show ray position
         // You need to enable gizmos in the editor to see these
