@@ -54,5 +54,6 @@ public class Shooting : MonoBehaviour
 
             Destroy(this.gameObject);
         }
+
     }
 }
