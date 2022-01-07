@@ -22,18 +22,24 @@ public class Player1 : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        //gameObject.GetComponent<ParticleSystem>().emission.enabled = false;
         //MyText.text = "";
     }
 
     // Update is called once per frame
     void Update()
     {
+        
+
         DoJump();
         DoMove();
         DoAttack();
         DoShoot();
         DoRayCollisionCheck();
         //MyText.text = "" + playerscore;
+        //DoSpecialEffectsAnim();
+        //ParticleSystem.Stop();
+        //DoSpecialEffects();
     }
 
 
@@ -223,7 +229,7 @@ public class Player1 : MonoBehaviour
         else
         {
             isGrounded = false;
-          
+
         }
         // draw a debug ray to show ray position
         // You need to enable gizmos in the editor to see these
@@ -252,5 +258,24 @@ public class Player1 : MonoBehaviour
         }
 
     }
+    /*
+    void DoSpecialEffectsAnim()
+    {
 
+        anim.SetBool("SpecEff", false);
+
+        if (Input.GetKey("f"))
+        {
+            anim.SetBool("SpecEff", true);
+        }
+
+    }
+
+    void DoSpecialEffects()
+    {
+        gameObject.GetComponent<ParticleSystem>().emission.enabled = true;
+    }
+
+    */
 }
+
