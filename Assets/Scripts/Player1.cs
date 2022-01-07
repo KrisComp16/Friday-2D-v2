@@ -46,7 +46,7 @@ public class Player1 : MonoBehaviour
         Vector2 velocity = rb.velocity;
 
         // check for jump
-        if (Input.GetKey("w") && (isGrounded == true))
+        if (Input.GetKey("w")) // && (isGrounded == true))
         {
             if (velocity.y < 0.01f)
             {
@@ -54,7 +54,7 @@ public class Player1 : MonoBehaviour
 
             }
         }
-        if (Input.GetKey("w") && (isGrounded == false))
+        if (Input.GetKey("w")) // && (isGrounded == false))
         {
             print("I can't jump yet");
         }
