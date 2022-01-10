@@ -15,6 +15,7 @@ public class Player1 : MonoBehaviour
     public Transform firepoint;
     public static int playerscore;
     //public Text MyText;
+    public ParticleSystem ps;
 
 
     // Start is called before the first frame update
@@ -24,6 +25,8 @@ public class Player1 : MonoBehaviour
         anim = GetComponent<Animator>();
         //gameObject.GetComponent<ParticleSystem>().emission.enabled = false;
         //MyText.text = "";
+        ps = GetComponent<ParticleSystem>();
+        ps.Pause();
     }
 
     // Update is called once per frame
@@ -37,7 +40,7 @@ public class Player1 : MonoBehaviour
         DoShoot();
         DoRayCollisionCheck();
         //MyText.text = "" + playerscore;
-        //DoSpecialEffectsAnim();
+        DoSpecialEffectsAnim();
         //ParticleSystem.Stop();
         //DoSpecialEffects();
     }
@@ -258,7 +261,7 @@ public class Player1 : MonoBehaviour
         }
 
     }
-    /*
+    
     void DoSpecialEffectsAnim()
     {
 
@@ -271,11 +274,16 @@ public class Player1 : MonoBehaviour
 
     }
 
+    
     void DoSpecialEffects()
     {
-        gameObject.GetComponent<ParticleSystem>().emission.enabled = true;
+        ps.Play();
     }
 
-    */
+    void StopSpecialEffects()
+    {
+        ps.Stop();
+    }
+    
 }
 
