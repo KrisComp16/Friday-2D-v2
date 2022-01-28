@@ -7,7 +7,7 @@ public class Score : MonoBehaviour
 {
 
 
-
+    
     public Text MyText;
     private int score;
     //private Player1;
@@ -17,7 +17,7 @@ public class Score : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        
+        highscore = PlayerPrefs.GetInt("highscore", 0);
         MyText.text = "";
 
     }
@@ -26,25 +26,28 @@ public class Score : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        highscore = PlayerPrefs.GetInt("highscore", 0);
 
-        MyText.text = "" + Player1.playerscore + " Highscore = " + highscore;
+        MyText.text = "Score = " + Player1.playerscore + " " +
+            "Highscore = " + highscore;
 
         if (Player1.playerscore > highscore)
         {
             highscore = Player1.playerscore;
 
-            SetHighscore(highscore);
+            SetHighscore("highscore", highscore);
         }
         else
         {
             return;
         }
 
-
-        void SetHighscore(int Value)
+        
+        void SetHighscore(string name, int Value)
         {
-            PlayerPrefs.SetInt(Value);
+            PlayerPrefs.SetInt(name, Value);
         }
+        
     }
 
 
