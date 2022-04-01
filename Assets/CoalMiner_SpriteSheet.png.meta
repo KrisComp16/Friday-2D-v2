@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: ad85d9b5160da7247b6e0f6aa99d6eb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1743066561831532100
+    second: CoalMiner_SpriteSheet_0
+  - first:
+      213: -696753157223553508
+    second: CoalMiner_SpriteSheet_1
+  - first:
+      213: -5356367565088311745
+    second: CoalMiner_SpriteSheet_2
+  - first:
+      213: -6893894150466875114
+    second: CoalMiner_SpriteSheet_3
+  - first:
+      213: 4763411973502021254
+    second: CoalMiner_SpriteSheet_4
+  - first:
+      213: -5391765717120228200
+    second: CoalMiner_SpriteSheet_5
+  - first:
+      213: -6244877117792688414
+    second: CoalMiner_SpriteSheet_6
+  - first:
+      213: 3588403771923808022
+    second: CoalMiner_SpriteSheet_7
+  - first:
+      213: 8177610677874154447
+    second: CoalMiner_SpriteSheet_8
+  - first:
+      213: -2955081616310235169
+    second: CoalMiner_SpriteSheet_9
+  - first:
+      213: 8481067312837878219
+    second: CoalMiner_SpriteSheet_10
+  - first:
+      213: 8006741156129945687
+    second: CoalMiner_SpriteSheet_11
+  - first:
+      213: 1377416419319722162
+    second: CoalMiner_SpriteSheet_12
+  - first:
+      213: -4097143654823884983
+    second: CoalMiner_SpriteSheet_13
+  - first:
+      213: 55034635954123756
+    second: CoalMiner_SpriteSheet_14
+  - first:
+      213: 6812806423725850239
+    second: CoalMiner_SpriteSheet_15
+  - first:
+      213: 1330464761516202062
+    second: CoalMiner_SpriteSheet_16
+  - first:
+      213: 9028003448784926357
+    second: CoalMiner_SpriteSheet_17
+  - first:
+      213: -539562273761997592
+    second: CoalMiner_SpriteSheet_18
+  - first:
+      213: 5775953673297703955
+    second: CoalMiner_SpriteSheet_19
+  - first:
+      213: 1303679759364037018
+    second: CoalMiner_SpriteSheet_20
+  - first:
+      213: -4547437358370558073
+    second: CoalMiner_SpriteSheet_21
+  - first:
+      213: -7605088165650774764
+    second: CoalMiner_SpriteSheet_22
+  - first:
+      213: 7388346660553716058
+    second: CoalMiner_SpriteSheet_23
+  - first:
+      213: 5992750058329992222
+    second: CoalMiner_SpriteSheet_24
+  - first:
+      213: -3215635849047767863
+    second: CoalMiner_SpriteSheet_25
+  - first:
+      213: -4366914490482648990
+    second: CoalMiner_SpriteSheet_26
+  - first:
+      213: 1494046933008962505
+    second: CoalMiner_SpriteSheet_27
+  - first:
+      213: -154522543738233132
+    second: CoalMiner_SpriteSheet_28
+  - first:
+      213: -8688715524605522723
+    second: CoalMiner_SpriteSheet_29
+  - first:
+      213: -2495176989025056878
+    second: CoalMiner_SpriteSheet_30
+  - first:
+      213: 8977309263454644812
+    second: CoalMiner_SpriteSheet_31
+  - first:
+      213: -5780698865099497432
+    second: CoalMiner_SpriteSheet_32
+  - first:
+      213: -3538981020821330183
+    second: CoalMiner_SpriteSheet_33
+  - first:
+      213: -864180056831790301
+    second: CoalMiner_SpriteSheet_34
+  - first:
+      213: -4206102856116418404
+    second: CoalMiner_SpriteSheet_35
+  - first:
+      213: 5074386552726451429
+    second: CoalMiner_SpriteSheet_36
+  - first:
+      213: -7415820508166066049
+    second: CoalMiner_SpriteSheet_37
+  - first:
+      213: 95224926138479003
+    second: CoalMiner_SpriteSheet_38
+  - first:
+      213: 4951325794310082460
+    second: CoalMiner_SpriteSheet_39
+  - first:
+      213: -1972615050493870564
+    second: CoalMiner_SpriteSheet_40
+  - first:
+      213: -896788278061166606
+    second: CoalMiner_SpriteSheet_41
+  - first:
+      213: 659179995002618515
+    second: CoalMiner_SpriteSheet_42
+  - first:
+      213: 3386465668755432764
+    second: CoalMiner_SpriteSheet_43
+  - first:
+      213: 2946225620582914985
+    second: CoalMiner_SpriteSheet_44
+  - first:
+      213: 8533796444409165844
+    second: CoalMiner_SpriteSheet_45
+  - first:
+      213: -8141766221959392151
+    second: CoalMiner_SpriteSheet_46
+  - first:
+      213: -4203181127254290179
+    second: CoalMiner_SpriteSheet_47
+  - first:
+      213: -3690163603910767114
+    second: CoalMiner_SpriteSheet_48
+  - first:
+      213: 440716962894147936
+    second: CoalMiner_SpriteSheet_49
+  - first:
+      213: -5578619381007831036
+    second: CoalMiner_SpriteSheet_50
+  - first:
+      213: -3415589964626255478
+    second: CoalMiner_SpriteSheet_51
+  - first:
+      213: 6896423753862056323
+    second: CoalMiner_SpriteSheet_52
+  - first:
+      213: -257800399475798135
+    second: CoalMiner_SpriteSheet_53
+  - first:
+      213: 130550965874497078
+    second: CoalMiner_SpriteSheet_54
+  - first:
+      213: -5195309484094996126
+    second: CoalMiner_SpriteSheet_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 439
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb98b2a72326fc7e0800000000000000
+      internalID: -1743066561831532100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 439
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16ee8fe1b2a456f0800000000000000
+      internalID: -696753157223553508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 439
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36bc7c241c5aa5b0800000000000000
+      internalID: -5356367565088311745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 437
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611574aabc7f350a0800000000000000
+      internalID: -6893894150466875114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 437
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e2e67c3f90b1240800000000000000
+      internalID: 4763411973502021254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 437
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8946be6a5a99c25b0800000000000000
+      internalID: -5391765717120228200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 435
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e66000295db559a0800000000000000
+      internalID: -6244877117792688414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 435
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fb038e7329cc130800000000000000
+      internalID: 3588403771923808022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 358
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb512ea595bc7170800000000000000
+      internalID: 8177610677874154447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 358
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf8a893de07df6d0800000000000000
+      internalID: -2955081616310235169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 358
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1e0e159cdc2b570800000000000000
+      internalID: 8481067312837878219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 358
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75830a3f8a8ad1f60800000000000000
+      internalID: 8006741156129945687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 358
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0b75d7fe09d1310800000000000000
+      internalID: 1377416419319722162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 336
+        width: 106
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9470a74bd850427c0800000000000000
+      internalID: -4097143654823884983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 57
+        width: 232
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce37366b5b583c000800000000000000
+      internalID: 55034635954123756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 326
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ebda9b853fb8e50800000000000000
+      internalID: 6812806423725850239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 327
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e481958c6a2c67210800000000000000
+      internalID: 1330464761516202062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 326
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596b3d3ed49e94d70800000000000000
+      internalID: 9028003448784926357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 325
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecc63288f61388f0800000000000000
+      internalID: -539562273761997592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 325
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314b508734f482050800000000000000
+      internalID: 5775953673297703955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 243
+        width: 106
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9992cd75d9971210800000000000000
+      internalID: 1303679759364037018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 244
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f6bffd0d144e0c0800000000000000
+      internalID: -4547437358370558073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 244
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415cbd85b9c457690800000000000000
+      internalID: -7605088165650774764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 244
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a517fb3842ea88660800000000000000
+      internalID: 7388346660553716058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 244
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ce5765d668a2350800000000000000
+      internalID: 5992750058329992222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 244
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c40f728b34cf53d0800000000000000
+      internalID: -3215635849047767863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 210
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2689646686a9563c0800000000000000
+      internalID: -4366914490482648990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 210
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3d2cf05cbebb410800000000000000
+      internalID: 1494046933008962505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 211
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de51bea0960bddf0800000000000000
+      internalID: -154522543738233132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 211
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc4771e34b7b6780800000000000000
+      internalID: -8688715524605522723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 215
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297ce6d9fb95f5dd0800000000000000
+      internalID: -2495176989025056878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 215
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aa907163fc59c70800000000000000
+      internalID: 8977309263454644812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 215
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820ad387205d6cfa0800000000000000
+      internalID: -5780698865099497432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 130
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6681b038303eec0800000000000000
+      internalID: -3538981020821330183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 130
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323709221d0d104f0800000000000000
+      internalID: -864180056831790301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 130
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98cc6cbcbbe0a5c0800000000000000
+      internalID: -4206102856116418404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 130
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e477483fa7db6640800000000000000
+      internalID: 5074386552726451429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 130
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7074bcd986b51990800000000000000
+      internalID: -7415820508166066049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 136
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b913f38d09e425100800000000000000
+      internalID: 95224926138479003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 130
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fc411a394a6b440800000000000000
+      internalID: 4951325794310082460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 98
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e39bc101ddf94e0800000000000000
+      internalID: -1972615050493870564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 98
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff0e6fffc7fd83f0800000000000000
+      internalID: -896788278061166606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392cc2586b0e52900800000000000000
+      internalID: 659179995002618515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 99
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35293e55942ffe20800000000000000
+      internalID: 3386465668755432764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 99
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abdff6979813e820800000000000000
+      internalID: 2946225620582914985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 99
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ff76f6a22e6670800000000000000
+      internalID: 8533796444409165844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 99
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96416df02c2a20f80800000000000000
+      internalID: -8141766221959392151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 99
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0d16fb80d4ba5c0800000000000000
+      internalID: -4203181127254290179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 99
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdc2d9e0c7e9ccc0800000000000000
+      internalID: -3690163603910767114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 16
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0617bc32ebdbd1600800000000000000
+      internalID: 440716962894147936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 16
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4003be1da33c492b0800000000000000
+      internalID: -5578619381007831036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 16
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81201416036990d0800000000000000
+      internalID: -3415589964626255478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 16
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38983858dd405bf50800000000000000
+      internalID: 6896423753862056323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8a4e07eb1c6cf0800000000000000
+      internalID: -257800399475798135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 16
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636980a696fcfc100800000000000000
+      internalID: 130550965874497078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoalMiner_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 16
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261cc46dc8d86e7b0800000000000000
+      internalID: -5195309484094996126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
